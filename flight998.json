@@ -1,0 +1,50 @@
+[
+    {
+        "id": 6,
+        "name": "Zenek",
+        "seat": "a1",
+        "class": "bisnes"
+    },
+    {
+        "id": 7,
+        "name": "Błażej",
+        "seat": "a2",
+        "class": "bisnes"
+    },
+    {
+        "id": 8,
+        "name": "Tomasz",
+        "seat": "a3",
+        "class": "bisnes"
+    },
+    {
+        "id": 9,
+        "name": "Weronika",
+        "seat": "a1",
+        "class": "premium"
+    },
+    {
+        "id": 10,
+        "name": "Karol",
+        "seat": "a4",
+        "class": "bisnes"
+    },
+    {
+        "id": 11,
+        "name": "Jakub",
+        "seat": "a3",
+        "class": "premium"
+    },
+    {
+        "id": 12,
+        "name": "Jakub2",
+        "seat": "a4",
+        "class": "premium"
+    },
+    {
+        "id": 15,
+        "name": "Jakub Woźniak",
+        "seat": "b2",
+        "class": "premium"
+    }
+]

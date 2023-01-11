@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Jacek",
+        "seat": "a1",
+        "class": "eco"
+    },
+    {
+        "id": 2,
+        "name": "Karolina",
+        "seat": "a2",
+        "class": "eco"
+    },
+    {
+        "id": 3,
+        "name": "Jórek",
+        "seat": "a1",
+        "class": "premium"
+    },
+    {
+        "id": 4,
+        "name": "Maciej",
+        "seat": "a3",
+        "class": "eco"
+    },
+    {
+        "id": 5,
+        "name": "wacek",
+        "seat": "a1",
+        "class": "bisnes"
+    }
+]
